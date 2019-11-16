@@ -1,0 +1,17 @@
+body {
+  background-color: #F3F7FA;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 960px;
+  padding: 0 102px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
